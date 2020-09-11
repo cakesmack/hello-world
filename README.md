@@ -1,2 +1,4 @@
 # hello-world
-Set up Git repository
+Set up a GitHub repository
+
+What the france am i doing?
